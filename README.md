@@ -1,3 +1,5 @@
+- 1.4.2025: uusi projekti, tietokanta luetuille kirjoille
+
 - 👋 Hi, I’m @KoodiAnanas
 - 👀 I’m interested in coding, learning to use different kind of programs and apps. Also interested in information security and data protection and standards.
 - 🌱 I’m currently learning html, goal is to make new personal web-page.
@@ -5,8 +7,7 @@
 - 📫 How to reach me: linkedin - https://www.linkedin.com/in/antti-tammelin-40043a2b5/.
 - ⚡ Fun fact: Bees can recognize faces! 🐝
 
-- 1.4.2025
-    -uusi projekti, tietokanta luetuille kirjoille
+
 
 <!---
 KoodiAnanas/KoodiAnanas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
