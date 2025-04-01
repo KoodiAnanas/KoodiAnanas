@@ -5,6 +5,9 @@
 - 📫 How to reach me: linkedin - https://www.linkedin.com/in/antti-tammelin-40043a2b5/.
 - ⚡ Fun fact: Bees can recognize faces! 🐝
 
+- 1.4.2025
+    -uusi projekti, tietokanta luetuille kirjoille
+
 <!---
 KoodiAnanas/KoodiAnanas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
